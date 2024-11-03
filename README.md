@@ -1,3 +1,3 @@
 # exercicio_pcea
 
-## Fazer um fork desse repositório e enviar uma alteração no README.md, com um parágrafo sobre essa matéria.
+Fundamentos de Programação Computacional é uma matéria extremamente necessária para entender o funcionamento de tudo na base da computação de programação.
